@@ -76,3 +76,11 @@ label {
    background-color: #2e313d;
    transform: rotateY(180deg);
  }
+label:hover .door {
+  border-color: #385052;
+}
+ 
+:checked + .door {
+  transform: rotateY(180deg);
+}
+
