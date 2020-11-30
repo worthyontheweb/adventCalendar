@@ -25,5 +25,17 @@
   background: #2e313d;
   padding: 40px;
 }
-
+/* individual items */
+  .title {
+    grid-area: t;
+  }
+  .day-1 {
+    grid-area: d1;
+  }
+  .day-2 {
+    grid-area: d2;
+  }
+  .day-3 {
+    grid-area: d3;
+  }
                         
