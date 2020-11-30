@@ -99,3 +99,10 @@ label:hover .door {
 .day-6 .back {
   background: url(snowflake.svg);
 }
+.door .back {
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #2e313d;
+    transform: rotateY(180deg);
+}
