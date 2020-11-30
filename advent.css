@@ -93,3 +93,9 @@ label:hover .door {
   width: 90%;
   height: auto;
 }
+.day-6 {
+  grid-area: d6;
+}
+.day-6 .back {
+  background: url(snowflake.svg);
+}
